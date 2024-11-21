@@ -1,13 +1,14 @@
-remote_theme:  jekyll-theme-minimal
+theme:  jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 title: Hyun Lab Homepage
 description: Hyun Research Lab studies interesting nonlinear systems such as flapping wing vehicles, bicopters, quadrotors, and impulsive systems.
-show_downloads: false
 
-navbar-links:
-  Students: "about.md"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  N.P. Hyun: "https://www.nphyun.com/home"
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+    "Issues":
+      - "https://github.com/Hyun-Research-Lab/Hyun-Research-Lab.github.io/issues"
+    "Source on GitHub":
+      - "https://github.com/Hyun-Research-Lab/Hyun-Research-Lab.github.io"
+      
