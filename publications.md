@@ -1,3 +1,7 @@
+layout: page
+title: "Publications"
+permalink: /publications
+
 # Hyun Research Lab Publications
 
 Below is a list of publications, shown in chronological order.
