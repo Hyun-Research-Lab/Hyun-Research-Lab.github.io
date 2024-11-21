@@ -4,3 +4,10 @@ plugins:
 title: Hyun Lab Homepage
 description: Hyun Research Lab studies interesting nonlinear systems such as flapping wing vehicles, bicopters, quadrotors, and impulsive systems.
 show_downloads: false
+
+navbar-links:
+  Students: "about.md"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  N.P. Hyun: "https://www.nphyun.com/home"
